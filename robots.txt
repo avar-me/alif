@@ -1,0 +1,5 @@
+# robots.txt for alif.avar.me
+User-agent: *
+Allow: /
+
+Sitemap: https://alif.avar.me/sitemap.xml
