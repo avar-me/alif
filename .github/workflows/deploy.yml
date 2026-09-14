@@ -30,7 +30,7 @@ jobs:
       - name: Collect site files
         run: |
           mkdir -p dist
-          cp index.html alphabet.html styles.css robots.txt sitemap.xml CNAME avar.me.png og-image.jpg dist/
+          cp index.html comparison_table.html alphabet.html styles.css robots.txt sitemap.xml CNAME avar.me.png og-image.jpg dist/
 
       - uses: actions/configure-pages@v5
 
