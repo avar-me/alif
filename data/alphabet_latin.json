@@ -79,19 +79,19 @@
     ],
     "phrases": [
       {
-        "cyrillic": "гьитӏинаб а",
-        "latin": "hiťinab a",
-        "ru": "малая (строчная) а"
+        "cyrillic": "тӏохьол баб",
+        "latin": "ťoxhol bab",
+        "ru": "глава, раздел книги"
       },
       {
-        "cyrillic": "гьедин гьабуни, иш аялда букӏинаан",
-        "latin": "hedin habuni, iş ayalda buķinaan",
-        "ru": "если сделаешь так, дело пошло бы на лад"
+        "cyrillic": "Мухӏамад аварагасул хӏадисазул бицунеб баб буго гьаб",
+        "latin": "Muħamad awaragasul ħadisazul bicuneb bab bugo hab",
+        "ru": "эта глава о хадисах пророка Мухаммеда"
       },
       {
-        "cyrillic": "а абуни, беги абизе ккола",
-        "latin": "a abuni, begi abize kkola",
-        "ru": "раз сказал \"а\", скажи [вслед] \"бе\""
+        "cyrillic": "баба, дунги ваче цадахъ",
+        "latin": "baba, dungi vaçe cadakh",
+        "ru": "мамочка, бери меня с собой"
       }
     ]
   },
@@ -127,19 +127,19 @@
     ],
     "phrases": [
       {
-        "cyrillic": "абги цадахъ босе",
-        "latin": "abgi cadakh bose",
-        "ru": "и это тоже возьми(те) с собой"
+        "cyrillic": "ца бахъизе",
+        "latin": "ca bakhize",
+        "ru": "удалить, вырвать, выдернуть зуб"
       },
       {
-        "cyrillic": "абго щиб жо дуца гьабулеб?",
-        "latin": "abgo şçib jo duca habuleb?",
-        "ru": "что же это ты делаешь?"
+        "cyrillic": "ца бортана",
+        "latin": "ca bortana",
+        "ru": "зуб выпал"
       },
       {
-        "cyrillic": "абгонияб бечелъи кин дуца данде гьабураб?",
-        "latin": "abgoniyab beçeļi kin duca dande haburab?",
-        "ru": "как ты собрал столько богатства?"
+        "cyrillic": "ца багъарун буго",
+        "latin": "ca bağarun bugo",
+        "ru": "зуб шатается"
       }
     ]
   },
@@ -175,19 +175,19 @@
     ],
     "phrases": [
       {
-        "cyrillic": "цӏорол абажур",
-        "latin": "ćorol abajur",
-        "ru": "стеклянный абажур"
+        "cyrillic": "цӏа бакизе",
+        "latin": "ća bakize",
+        "ru": "разжечь огонь"
       },
       {
-        "cyrillic": "абазин мацӏ",
-        "latin": "abazin mać",
-        "ru": "абазинский язык"
+        "cyrillic": "цӏа рекӏине",
+        "latin": "ća reķine",
+        "ru": "загораться, воспламениться"
       },
       {
-        "cyrillic": "абгощинаб боцӏи-рикъзи досие щай?",
-        "latin": "abgoşçinab boći-riqzi dosie şçay?",
-        "ru": "зачем же ему столько добра?"
+        "cyrillic": "рукъалда цӏа рекӏана",
+        "latin": "ruqalda ća reķana",
+        "ru": "огонь охватил дом"
       }
     ]
   },
@@ -223,19 +223,19 @@
     ],
     "phrases": [
       {
-        "cyrillic": "аб лъил чу?",
-        "latin": "ab ļil çu?",
-        "ru": "чья эта лошадь?"
+        "cyrillic": "Хъахӏаб чаба чурарай",
+        "latin": "Khaħab çaba çuraray",
+        "ru": "Белый платок ты стирала"
       },
       {
-        "cyrillic": "абадиялъ анив хутӏулев чи вукӏунаро",
-        "latin": "abadiyaļ aniv xuťulev çi vuķunaro",
-        "ru": "нет человека, который остаётся навечно здесь"
+        "cyrillic": "нухде чабах базе",
+        "latin": "nuxde çabax baze",
+        "ru": "мостить дорогу щебнем"
       },
       {
-        "cyrillic": "абгонияб бечелъи кин дуца данде гьабураб?",
-        "latin": "abgoniyab beçeļi kin duca dande haburab?",
-        "ru": "как ты собрал столько богатства?"
+        "cyrillic": "чабхил ицц",
+        "latin": "çabxil icc",
+        "ru": "родник, источник"
       }
     ]
   },
@@ -271,19 +271,19 @@
     ],
     "phrases": [
       {
-        "cyrillic": "абад гьечӏеб",
-        "latin": "abad hečeb",
-        "ru": "невечный, преходящий"
+        "cyrillic": "рукъалъул чӏабар",
+        "latin": "ruqaļul čabar",
+        "ru": "земляной пол комнаты"
       },
       {
-        "cyrillic": "абги досулго кечӏ буго",
-        "latin": "abgi dosulgo keč bugo",
-        "ru": "это тоже его стихотворение"
+        "cyrillic": "чӏабар гьабизе",
+        "latin": "čabar habize",
+        "ru": "помазать пол"
       },
       {
-        "cyrillic": "абгощинаб чӏахӏ хуриб тезе бегьилищ?",
-        "latin": "abgoşçinab čaħ xurib teze behilişç?",
-        "ru": "разве можно оставлять столько сорняка на ниве?"
+        "cyrillic": "чӏабар жужазе",
+        "latin": "čabar jujaze",
+        "ru": "намазать водой земляной пол, провести мокрой тряпкой по землян..."
       }
     ]
   },
@@ -319,19 +319,19 @@
     ],
     "phrases": [
       {
-        "cyrillic": "гьедин гьабуни, иш аялда букӏинаан",
-        "latin": "hedin habuni, iş ayalda buķinaan",
-        "ru": "если сделаешь так, дело пошло бы на лад"
+        "cyrillic": "дабал рихъун руго",
+        "latin": "dabal rikhun rugo",
+        "ru": "зубы прорезались"
       },
       {
-        "cyrillic": "аб дир къалам буго",
-        "latin": "ab dir qalam bugo",
-        "ru": "это мой карандаш"
+        "cyrillic": "дабал унтун руго",
+        "latin": "dabal untun rugo",
+        "ru": "дёсны болят"
       },
       {
-        "cyrillic": "абад гьечӏеб",
-        "latin": "abad hečeb",
-        "ru": "невечный, преходящий"
+        "cyrillic": "дабазда гъоркь",
+        "latin": "dabazda ğorkļ",
+        "ru": "под дёснами"
       }
     ]
   },
@@ -367,19 +367,19 @@
     ],
     "phrases": [
       {
-        "cyrillic": "гьедин гьабуни, иш аялда букӏинаан",
-        "latin": "hedin habuni, iş ayalda buķinaan",
-        "ru": "если сделаешь так, дело пошло бы на лад"
+        "cyrillic": "етӏарухъаналъ план тӏубазабуна",
+        "latin": "eťarukhanaļ plan ťubazabuna",
+        "ru": "сборщица фруктов выполнила план"
       },
       {
-        "cyrillic": "а абуни, беги абизе ккола",
-        "latin": "a abuni, begi abize kkola",
-        "ru": "раз сказал \"а\", скажи [вслед] \"бе\""
+        "cyrillic": "дов армиялда ефрейторлъун вукӏана",
+        "latin": "dov armiyalda efreytorļun vuķana",
+        "ru": "он в армии служил ефрейтором"
       },
       {
-        "cyrillic": "абад гьечӏеб",
-        "latin": "abad hečeb",
-        "ru": "невечный, преходящий"
+        "cyrillic": "ефрейторлъи кьезе",
+        "latin": "efreytorļi kļeze",
+        "ru": "присвоить звание ефрейтора"
       }
     ]
   },
@@ -415,19 +415,19 @@
     ],
     "phrases": [
       {
-        "cyrillic": "автобиография хъвазе",
-        "latin": "avtobiografiya khwaze",
-        "ru": "написать автобиографию"
+        "cyrillic": "кагъат гьабулеб фабрика",
+        "latin": "kağat habuleb fabrika",
+        "ru": "бумажная фабрика"
       },
       {
-        "cyrillic": "автобиографияб къиса",
-        "latin": "avtobiografiyab qisa",
-        "ru": "автобиографическая повесть"
+        "cyrillic": "ретӏел букъулеб фабрика",
+        "latin": "reťel buquleb fabrika",
+        "ru": "швейная фабрика"
       },
       {
-        "cyrillic": "автобусалъул шофёр",
-        "latin": "avtobusaļul şoför",
-        "ru": "водитель автобуса"
+        "cyrillic": "хьухьарулеб фабрика",
+        "latin": "xhuxharuleb fabrika",
+        "ru": "трикотажная фабрика"
       }
     ]
   },
@@ -463,19 +463,19 @@
     ],
     "phrases": [
       {
-        "cyrillic": "а абуни, беги абизе ккола",
-        "latin": "a abuni, begi abize kkola",
-        "ru": "раз сказал \"а\", скажи [вслед] \"бе\""
+        "cyrillic": "кӏиго гаялда цӏоросоролъ бекьана",
+        "latin": "ķigo gayalda ćorosoroļ bekļana",
+        "ru": "на двух га посеяли кукурузу"
       },
       {
-        "cyrillic": "аб дир къалам буго",
-        "latin": "ab dir qalam bugo",
-        "ru": "это мой карандаш"
+        "cyrillic": "габани бекьизе",
+        "latin": "gabani bekļize",
+        "ru": "посеять коноплю"
       },
       {
-        "cyrillic": "абги досулго кечӏ буго",
-        "latin": "abgi dosulgo keč bugo",
-        "ru": "это тоже его стихотворение"
+        "cyrillic": "габанидул хокӏи",
+        "latin": "gabanidul xoķi",
+        "ru": "пучок, клок пеньки"
       }
     ]
   },
@@ -511,19 +511,19 @@
     ],
     "phrases": [
       {
-        "cyrillic": "кагътил абажур",
-        "latin": "kağtil abajur",
-        "ru": "бумажный абажур"
+        "cyrillic": "гъаба бакӏаризе",
+        "latin": "ğaba baķarize",
+        "ru": "собирать грибы"
       },
       {
-        "cyrillic": "абуралъе сайигъат",
-        "latin": "aburaļe sayiğat",
-        "ru": "подарок невесте"
+        "cyrillic": "гъабу бацӏцӏине",
+        "latin": "ğabu baććine",
+        "ru": "привить черенок винограда"
       },
       {
-        "cyrillic": "Гъоркьа авал",
-        "latin": "Ğorkļa awal",
-        "ru": "Нижний квартал"
+        "cyrillic": "гъабу кӏуризе",
+        "latin": "ğabu ķurize",
+        "ru": "обрезать виноградную лозу"
       }
     ]
   },
@@ -559,19 +559,19 @@
     ],
     "phrases": [
       {
-        "cyrillic": "абго щиб лъугӏулареб дагӏба?",
-        "latin": "abgo şçib ļuġulareb daġba?",
-        "ru": "что за бесконечный спор?"
+        "cyrillic": "гӏологӏучӏ бекун буго",
+        "latin": "ġoloġuč bekun bugo",
+        "ru": "затычка ярма поломана"
       },
       {
-        "cyrillic": "абгощинаб гӏарац киса дуе щвараб?",
-        "latin": "abgoşçinab ġarac kisa due şçwarab?",
-        "ru": "где ты достал столько денег?"
+        "cyrillic": "солдат гӏаба",
+        "latin": "soldat ġaba",
+        "ru": "солдатская шинель"
       },
       {
-        "cyrillic": "нижеда кӏвечӏо цохӏо рагӏиниги досда абизабизе",
-        "latin": "nijeda ķwečo coħo raġinigi dosda abizabize",
-        "ru": "мы не смогли выловить у него хоть одно слово"
+        "cyrillic": "кӏиго гӏабаси",
+        "latin": "ķigo ġabasi",
+        "ru": "сорок копеек"
       }
     ]
   },
@@ -607,19 +607,19 @@
     ],
     "phrases": [
       {
-        "cyrillic": "гьитӏинаб а",
-        "latin": "hiťinab a",
-        "ru": "малая (строчная) а"
+        "cyrillic": "гьа базабизе",
+        "latin": "ha bazabize",
+        "ru": "привести к клятве"
       },
       {
-        "cyrillic": "гьедин гьабуни, иш аялда букӏинаан",
-        "latin": "hedin habuni, iş ayalda buķinaan",
-        "ru": "если сделаешь так, дело пошло бы на лад"
+        "cyrillic": "дуе гьа балев гьечӏо дун",
+        "latin": "due ha balev hečo dun",
+        "ru": "я не собираюсь тебе клясться"
       },
       {
-        "cyrillic": "абад гьечӏеб",
-        "latin": "abad hečeb",
-        "ru": "невечный, преходящий"
+        "cyrillic": "гьа базе тӏамизе",
+        "latin": "ha baze ťamize",
+        "ru": "заставлять присягнуть, клясться"
       }
     ]
   },
@@ -655,19 +655,19 @@
     ],
     "phrases": [
       {
-        "cyrillic": "абгощинаб чӏахӏ хуриб тезе бегьилищ?",
-        "latin": "abgoşçinab čaħ xurib teze behilişç?",
-        "ru": "разве можно оставлять столько сорняка на ниве?"
+        "cyrillic": "хӏабатӏ базабизе",
+        "latin": "ħabať bazabize",
+        "ru": "способствовать появлению перхоти"
       },
       {
-        "cyrillic": "нижеда кӏвечӏо цохӏо рагӏиниги досда абизабизе",
-        "latin": "nijeda ķwečo coħo raġinigi dosda abizabize",
-        "ru": "мы не смогли выловить у него хоть одно слово"
+        "cyrillic": "хӏабатӏ базе",
+        "latin": "ħabať baze",
+        "ru": "покрываться перхотью; появляться — о перхоти"
       },
       {
-        "cyrillic": "цохӏо рагӏицин абичӏо",
-        "latin": "coħo raġicin abičo",
-        "ru": "ни слова не сказал"
+        "cyrillic": "бетӏералтӏе хӏабатӏ бан буго",
+        "latin": "beťeralťe ħabať ban bugo",
+        "ru": "на голове [в волосах] появилась перхоть"
       }
     ]
   },
@@ -703,19 +703,19 @@
     ],
     "phrases": [
       {
-        "cyrillic": "гьитӏинаб а",
-        "latin": "hiťinab a",
-        "ru": "малая (строчная) а"
+        "cyrillic": "ивусил берал",
+        "latin": "iwusil beral",
+        "ru": "глазки пуговкой"
       },
       {
-        "cyrillic": "гьедин гьабуни, иш аялда букӏинаан",
-        "latin": "hedin habuni, iş ayalda buķinaan",
-        "ru": "если сделаешь так, дело пошло бы на лад"
+        "cyrillic": "гьав игитги ваче цадахъ",
+        "latin": "hav igitgi vaçe cadakh",
+        "ru": "бери и этого джигита с собой"
       },
       {
-        "cyrillic": "а абуни, беги абизе ккола",
-        "latin": "a abuni, begi abize kkola",
-        "ru": "раз сказал \"а\", скажи [вслед] \"бе\""
+        "cyrillic": "игӏланал чӏвазе",
+        "latin": "iġlanal čwaze",
+        "ru": "повесить афиши"
       }
     ]
   },
@@ -751,19 +751,19 @@
     ],
     "phrases": [
       {
-        "cyrillic": "абадул-абадиялъ алжаналъув хутӏана",
-        "latin": "abadul-abadiyaļ aljanaļuv xuťana",
-        "ru": "навсегда остался в раю"
+        "cyrillic": "чӏегӏераб жа",
+        "latin": "čeġerab ja",
+        "ru": "чёрное вино"
       },
       {
-        "cyrillic": "кагътил абажур",
-        "latin": "kağtil abajur",
-        "ru": "бумажный абажур"
+        "cyrillic": "чӏегӏераб жа гьекъана",
+        "latin": "čeġerab ja heqana",
+        "ru": "выпил чёрное вино"
       },
       {
-        "cyrillic": "цӏорол абажур",
-        "latin": "ćorol abajur",
-        "ru": "стеклянный абажур"
+        "cyrillic": "жа гьабизе",
+        "latin": "ja habize",
+        "ru": "делать вино"
       }
     ]
   },
@@ -799,19 +799,19 @@
     ],
     "phrases": [
       {
-        "cyrillic": "а абуни, беги абизе ккола",
-        "latin": "a abuni, begi abize kkola",
-        "ru": "раз сказал \"а\", скажи [вслед] \"бе\""
+        "cyrillic": "кабаб (нодо кабаб) чу",
+        "latin": "kabab (nodo kabab) çu",
+        "ru": "лошадь с белой отметиной на лбу"
       },
       {
-        "cyrillic": "абадиялъ ракӏалде ккелароан дос гьеб иш гьабилилан",
-        "latin": "abadiyaļ raķalde kkelaroan dos heb iş habililan",
-        "ru": "никогда в жизни не подумал бы, что он поступит так"
+        "cyrillic": "кабардиязул кьурди",
+        "latin": "kabardiyazul kļurdi",
+        "ru": "кабардинский танец"
       },
       {
-        "cyrillic": "кагътил абажур",
-        "latin": "kağtil abajur",
-        "ru": "бумажный абажур"
+        "cyrillic": "кабардиязул мацӏ",
+        "latin": "kabardiyazul mać",
+        "ru": "кабардинский язык"
       }
     ]
   },
@@ -847,19 +847,19 @@
     ],
     "phrases": [
       {
-        "cyrillic": "гьедин гьабуни, иш аялда букӏинаан",
-        "latin": "hedin habuni, iş ayalda buķinaan",
-        "ru": "если сделаешь так, дело пошло бы на лад"
+        "cyrillic": "дуца дурго вас дагьав кӏинкӏизе ккун вуго",
+        "latin": "duca durgo vas dahav ķinķize kkun vugo",
+        "ru": "тебе следует немного обуздать своего сына"
       },
       {
-        "cyrillic": "абадиялъ анив хутӏулев чи вукӏунаро",
-        "latin": "abadiyaļ aniv xuťulev çi vuķunaro",
-        "ru": "нет человека, который остаётся навечно здесь"
+        "cyrillic": "кӏинкӏизе кӏолей гӏадан гуро дой",
+        "latin": "ķinķize ķoley ġadan guro doy",
+        "ru": "её невозможно укротить"
       },
       {
-        "cyrillic": "абадиялъ ракӏалде ккелароан дос гьеб иш гьабилилан",
-        "latin": "abadiyaļ raķalde kkelaroan dos heb iş habililan",
-        "ru": "никогда в жизни не подумал бы, что он поступит так"
+        "cyrillic": "кӏабтӏил махӏ",
+        "latin": "ķabťil maħ",
+        "ru": "запах тины"
       }
     ]
   },
@@ -895,19 +895,19 @@
     ],
     "phrases": [
       {
-        "cyrillic": "аб дир къалам буго",
-        "latin": "ab dir qalam bugo",
-        "ru": "это мой карандаш"
+        "cyrillic": "ракьул къабза",
+        "latin": "rakļul qabza",
+        "ru": "горсть земли"
       },
       {
-        "cyrillic": "абадияб рукъ",
-        "latin": "abadiyab ruq",
-        "ru": "загробная жизнь; вечное пристанище"
+        "cyrillic": "ролъул къабза",
+        "latin": "roļul qabza",
+        "ru": "пригоршня муки"
       },
       {
-        "cyrillic": "абазин халкъ",
-        "latin": "abazin xalq",
-        "ru": "абазинский народ"
+        "cyrillic": "къабихӏ гьабизе",
+        "latin": "qabiħ habize",
+        "ru": "оскорблять, позорить, опорочить, унизить, осквернить"
       }
     ]
   },
@@ -943,19 +943,19 @@
     ],
     "phrases": [
       {
-        "cyrillic": "абгощинаб щай кьолеб?",
-        "latin": "abgoşçinab şçay kļoleb?",
-        "ru": "почему столько [много] даёшь?"
+        "cyrillic": "кьаба-кӏатӏун а, дуниял рукӏкӏиналде",
+        "latin": "kļaba-ķaťun a, duniyal ruķķinalde",
+        "ru": "идите побыстрее, пока не потемнело"
       },
       {
-        "cyrillic": "аб-доб гьечӏого разилъана дол дие яс кьезе",
-        "latin": "ab-dob hečogo raziļana dol die yas kļeze",
-        "ru": "без оговорок согласились они выдать дочь за меня"
+        "cyrillic": "кьаба-тунки ккезе дагьалъ хутӏана",
+        "latin": "kļaba-tunki kkeze dahaļ xuťana",
+        "ru": "чуть было не началась потасовка"
       },
       {
-        "cyrillic": "абхазазул ракь",
-        "latin": "abxazazul rakļ",
-        "ru": "абхазская земля"
+        "cyrillic": "дозул кьаба-тунки ккана нолъ",
+        "latin": "dozul kļaba-tunki kkana noļ",
+        "ru": "вчера ночью у них произошла драка"
       }
     ]
   },
@@ -991,19 +991,19 @@
     ],
     "phrases": [
       {
-        "cyrillic": "гьедин гьабуни, иш аялда букӏинаан",
-        "latin": "hedin habuni, iş ayalda buķinaan",
-        "ru": "если сделаешь так, дело пошло бы на лад"
+        "cyrillic": "гӏакдал лаб",
+        "latin": "ġakdal lab",
+        "ru": "шкура коровы"
       },
       {
-        "cyrillic": "а абуни, беги абизе ккола",
-        "latin": "a abuni, begi abize kkola",
-        "ru": "раз сказал \"а\", скажи [вслед] \"бе\""
+        "cyrillic": "хӏамил лаб",
+        "latin": "ħamil lab",
+        "ru": "шкура осла"
       },
       {
-        "cyrillic": "аб дир къалам буго",
-        "latin": "ab dir qalam bugo",
-        "ru": "это мой карандаш"
+        "cyrillic": "лаббайк, дир Аллагь!",
+        "latin": "labbayk, dir Allah!",
+        "ru": "Боже, я перед тобой!"
       }
     ]
   },
@@ -1039,19 +1039,19 @@
     ],
     "phrases": [
       {
-        "cyrillic": "аб лъил чу?",
-        "latin": "ab ļil çu?",
-        "ru": "чья эта лошадь?"
+        "cyrillic": "лъабабго цадахъ",
+        "latin": "ļababgo cadakh",
+        "ru": "втроём"
       },
       {
-        "cyrillic": "абадиялъ анив хутӏулев чи вукӏунаро",
-        "latin": "abadiyaļ aniv xuťulev çi vuķunaro",
-        "ru": "нет человека, который остаётся навечно здесь"
+        "cyrillic": "гьаб лъабабго тӏехь цӏалана дица",
+        "latin": "hab ļababgo ťexh ćalana dica",
+        "ru": "я прочитал все эти три книги"
       },
       {
-        "cyrillic": "абадиялъ ракӏалде ккелароан дос гьеб иш гьабилилан",
-        "latin": "abadiyaļ raķalde kkelaroan dos heb iş habililan",
-        "ru": "никогда в жизни не подумал бы, что он поступит так"
+        "cyrillic": "лъабавго вац",
+        "latin": "ļabavgo vac",
+        "ru": "все три брата"
       }
     ]
   },
@@ -1066,24 +1066,24 @@
     "words": [
       {
         "cyrillic": "лӀондокь",
-        "latin": "łondoķ",
+        "latin": "łondokļ",
         "ru": "жаба (диал.)"
       },
       {
         "cyrillic": "лӀутӀизе",
-        "latin": "łutʼize",
+        "latin": "łuťize",
         "ru": "сдирать, обдирать (диал.)"
       },
       {
         "cyrillic": "лӀутӀунзе",
-        "latin": "łutʼunze",
+        "latin": "łuťunze",
         "ru": "сползать, соскальзывать (диал.)"
       }
     ],
     "phrases": [
       {
         "cyrillic": "ЛӀондокь лъаралда бихьана.",
-        "latin": "Łondoķ ļaralda bixhana.",
+        "latin": "Łondokļ ļaralda bixhana.",
         "ru": "Жабу увидели у ручья."
       }
     ]
@@ -1120,19 +1120,19 @@
     ],
     "phrases": [
       {
-        "cyrillic": "аб дир къалам буго",
-        "latin": "ab dir qalam bugo",
-        "ru": "это мой карандаш"
+        "cyrillic": "маян кьураб босичӏес кьеян гьаризе ккола",
+        "latin": "mayan kļurab bosičes kļeyan harize kkola",
+        "ru": "кто не взял то, что давали, говоря \"на\", вынужден будет просит..."
       },
       {
-        "cyrillic": "абазин мацӏ",
-        "latin": "abazin mać",
-        "ru": "абазинский язык"
+        "cyrillic": "ма, гьаб хабарго щиб?",
+        "latin": "ma, hab xabargo şçib?",
+        "ru": "вот тебе на, что за разговоры?"
       },
       {
-        "cyrillic": "абазиназул маргьа",
-        "latin": "abazinazul marha",
-        "ru": "абазинская сказка"
+        "cyrillic": "мавлид гьабизе",
+        "latin": "mavlid habize",
+        "ru": "провести мовлюд"
       }
     ]
   },
@@ -1168,19 +1168,19 @@
     ],
     "phrases": [
       {
-        "cyrillic": "гьитӏинаб а",
-        "latin": "hiťinab a",
-        "ru": "малая (строчная) а"
+        "cyrillic": "нанай бацӏи",
+        "latin": "nanay baći",
+        "ru": "роение пчёл"
       },
       {
-        "cyrillic": "гьедин гьабуни, иш аялда букӏинаан",
-        "latin": "hedin habuni, iş ayalda buķinaan",
-        "ru": "если сделаешь так, дело пошло бы на лад"
+        "cyrillic": "нанай хечана",
+        "latin": "nanay xeçana",
+        "ru": "пчела ужалила"
       },
       {
-        "cyrillic": "а абуни, беги абизе ккола",
-        "latin": "a abuni, begi abize kkola",
-        "ru": "раз сказал \"а\", скажи [вслед] \"бе\""
+        "cyrillic": "нанай тӏогьотӏе уна, тӏутӏ къетӏа чӏола",
+        "latin": "nanay ťohoťe una, ťuť qeťa čola",
+        "ru": "пчела садится на цветок, а муха — на стену"
       }
     ]
   },
@@ -1216,19 +1216,19 @@
     ],
     "phrases": [
       {
-        "cyrillic": "а абуни, беги абизе ккола",
-        "latin": "a abuni, begi abize kkola",
-        "ru": "раз сказал \"а\", скажи [вслед] \"бе\""
+        "cyrillic": "нухлулал оазисалда хӏухьбахъизе чӏана",
+        "latin": "nuxlulal oazisalda ħuxhbakhize čana",
+        "ru": "путники остановились в оазисе на отдых"
       },
       {
-        "cyrillic": "аб дир къалам буго",
-        "latin": "ab dir qalam bugo",
-        "ru": "это мой карандаш"
+        "cyrillic": "рагъда хваразе бараб обелиск",
+        "latin": "rağda xwaraze barab obelisk",
+        "ru": "обелиск в честь павших на войне"
       },
       {
-        "cyrillic": "абадиялъ анив хутӏулев чи вукӏунаро",
-        "latin": "abadiyaļ aniv xuťulev çi vuķunaro",
-        "ru": "нет человека, который остаётся навечно здесь"
+        "cyrillic": "адабияталъул обзор",
+        "latin": "adabiyataļul obzor",
+        "ru": "литературный обзор"
       }
     ]
   },
@@ -1248,19 +1248,19 @@
       },
       {
         "cyrillic": "гьётӀеро",
-        "latin": "hötʼero",
+        "latin": "höťero",
         "ru": "кулик (птица)"
       },
       {
         "cyrillic": "тӀёл",
-        "latin": "tʼöl",
+        "latin": "ťöl",
         "ru": "пласт (земли, снега)"
       }
     ],
     "phrases": [
       {
         "cyrillic": "Гьороца мёл тӀобитӀана.",
-        "latin": "Horoća möl ťobiťana.",
+        "latin": "Horoca möl ťobiťana.",
         "ru": "Ветер разметал кучу зерна."
       }
     ]
@@ -1297,19 +1297,19 @@
     ],
     "phrases": [
       {
-        "cyrillic": "цӏакъ аваданав чи вуго Чупан",
-        "latin": "ćaq awadanav çi vugo Çupan",
-        "ru": "Чупан очень жизнерадостный человек"
+        "cyrillic": "тӏугьдузул павильон",
+        "latin": "ťuhduzul pawilon",
+        "ru": "цветочный павильон"
       },
       {
-        "cyrillic": "кагъат авиапочтаялъ битӏизе",
-        "latin": "kağat awiapoçtayaļ biťize",
-        "ru": "отправить письмо авиапочтой"
+        "cyrillic": "ярмаркаялъул павильон",
+        "latin": "yarmarkayaļul pawilon",
+        "ru": "ярмарочный павильон"
       },
       {
-        "cyrillic": "авиациялъулаб полк",
-        "latin": "awiaciyaļulab polk",
-        "ru": "авиационный полк"
+        "cyrillic": "дармил павильонал",
+        "latin": "darmil pawilonal",
+        "ru": "торговые павильоны"
       }
     ]
   },
@@ -1345,19 +1345,19 @@
     ],
     "phrases": [
       {
-        "cyrillic": "аб дир къалам буго",
-        "latin": "ab dir qalam bugo",
-        "ru": "это мой карандаш"
+        "cyrillic": "Кӏудияб Ватӏанияб рагъ",
+        "latin": "Ķudiyab Vaťaniyab rağ",
+        "ru": "Великая Отечественная война"
       },
       {
-        "cyrillic": "абадияб рукъ",
-        "latin": "abadiyab ruq",
-        "ru": "загробная жизнь; вечное пристанище"
+        "cyrillic": "рагъ байбихьана",
+        "latin": "rağ baybixhana",
+        "ru": "война началась"
       },
       {
-        "cyrillic": "абадиялъ анив хутӏулев чи вукӏунаро",
-        "latin": "abadiyaļ aniv xuťulev çi vuķunaro",
-        "ru": "нет человека, который остаётся навечно здесь"
+        "cyrillic": "рагъ лъугӏана",
+        "latin": "rağ ļuġana",
+        "ru": "война кончилась"
       }
     ]
   },
@@ -1393,19 +1393,19 @@
     ],
     "phrases": [
       {
-        "cyrillic": "абадиялъ ракӏалде ккелароан дос гьеб иш гьабилилан",
-        "latin": "abadiyaļ raķalde kkelaroan dos heb iş habililan",
-        "ru": "никогда в жизни не подумал бы, что он поступит так"
+        "cyrillic": "сабаб гьабизе",
+        "latin": "sabab habize",
+        "ru": "послужить причиной, стать поводом"
       },
       {
-        "cyrillic": "\"совхоз\" аббревиатура ккола",
-        "latin": "\"sovxoz\" abbrewiatura kkola",
-        "ru": "слово \"совхоз\" — аббревиатура"
+        "cyrillic": "гьелъул сабаблъун",
+        "latin": "heļul sababļun",
+        "ru": "по этой причине, из-за этого"
       },
       {
-        "cyrillic": "абги досулго кечӏ буго",
-        "latin": "abgi dosulgo keč bugo",
-        "ru": "это тоже его стихотворение"
+        "cyrillic": "сабру гьабизе",
+        "latin": "sabru habize",
+        "ru": "терпеть, проявлять терпение"
       }
     ]
   },
@@ -1441,19 +1441,19 @@
     ],
     "phrases": [
       {
-        "cyrillic": "гьедин гьабуни, иш аялда букӏинаан",
-        "latin": "hedin habuni, iş ayalda buķinaan",
-        "ru": "если сделаешь так, дело пошло бы на лад"
+        "cyrillic": "шавкат бугеб",
+        "latin": "şavkat bugeb",
+        "ru": "сильный, мощный, могущественный"
       },
       {
-        "cyrillic": "абадиялъ ракӏалде ккелароан дос гьеб иш гьабилилан",
-        "latin": "abadiyaļ raķalde kkelaroan dos heb iş habililan",
-        "ru": "никогда в жизни не подумал бы, что он поступит так"
+        "cyrillic": "шавкъ ккезе",
+        "latin": "şavq kkeze",
+        "ru": "страстно желать"
       },
       {
-        "cyrillic": "росдал магӏишаталъул авиация",
-        "latin": "rosdal maġişataļul awiaciya",
-        "ru": "сельскохозяйственная авиация"
+        "cyrillic": "шавкъ бачӏун (щун)",
+        "latin": "şavq bačun (şçun)",
+        "ru": "страстно"
       }
     ]
   },
@@ -1489,19 +1489,19 @@
     ],
     "phrases": [
       {
-        "cyrillic": "абги нужерищ?",
-        "latin": "abgi nujerişç?",
-        "ru": "и это ваше?"
+        "cyrillic": "гӏабдалгун щагъадуге",
+        "latin": "ġabdalgun şçağaduge",
+        "ru": "не спорь с дураком"
       },
       {
-        "cyrillic": "абго щиб лъугӏулареб дагӏба?",
-        "latin": "abgo şçib ļuġulareb daġba?",
-        "ru": "что за бесконечный спор?"
+        "cyrillic": "щагӏил гъадаро",
+        "latin": "şçaġil ğadaro",
+        "ru": "глиняная тарелка"
       },
       {
-        "cyrillic": "абго щиб жо духъ бугеб?",
-        "latin": "abgo şçib jo dukh bugeb?",
-        "ru": "что это у тебя [в руках]?"
+        "cyrillic": "щагӏил дад",
+        "latin": "şçaġil dad",
+        "ru": "глиняный сосуд"
       }
     ]
   },
@@ -1537,19 +1537,19 @@
     ],
     "phrases": [
       {
-        "cyrillic": "кагътил абажур",
-        "latin": "kağtil abajur",
-        "ru": "бумажный абажур"
+        "cyrillic": "табасаран мацӏ",
+        "latin": "tabasaran mać",
+        "ru": "табасаранский язык"
       },
       {
-        "cyrillic": "\"совхоз\" аббревиатура ккола",
-        "latin": "\"sovxoz\" abbrewiatura kkola",
-        "ru": "слово \"совхоз\" — аббревиатура"
+        "cyrillic": "табасаран халкъ",
+        "latin": "tabasaran xalq",
+        "ru": "табасаранцы"
       },
       {
-        "cyrillic": "абгощинаб чӏахӏ хуриб тезе бегьилищ?",
-        "latin": "abgoşçinab čaħ xurib teze behilişç?",
-        "ru": "разве можно оставлять столько сорняка на ниве?"
+        "cyrillic": "табасараназул ракь",
+        "latin": "tabasaranazul rakļ",
+        "ru": "табасаранская земля"
       }
     ]
   },
@@ -1585,19 +1585,19 @@
     ],
     "phrases": [
       {
-        "cyrillic": "гьитӏинаб а",
-        "latin": "hiťinab a",
-        "ru": "малая (строчная) а"
+        "cyrillic": "тӏабагьарал гохӏал",
+        "latin": "ťabaharal goħal",
+        "ru": "крутые холмы"
       },
       {
-        "cyrillic": "абадиялъ анив хутӏулев чи вукӏунаро",
-        "latin": "abadiyaļ aniv xuťulev çi vuķunaro",
-        "ru": "нет человека, который остаётся навечно здесь"
+        "cyrillic": "хӏалтӏул рагӏал тӏерен ккурав, тӏабкӏил рагӏал бицат ккурав",
+        "latin": "ħalťul raġal ťeren kkurav, ťabķil raġal bicat kkurav",
+        "ru": "за работу без охоты берётся, а за столом проявляет усердие"
       },
       {
-        "cyrillic": "абадул-абадиялъ алжаналъув хутӏана",
-        "latin": "abadul-abadiyaļ aljanaļuv xuťana",
-        "ru": "навсегда остался в раю"
+        "cyrillic": "тӏабибас ругъун сахлъизабуна",
+        "latin": "ťabibas ruğun saxļizabuna",
+        "ru": "лекарь вылечил рану"
       }
     ]
   },
@@ -1633,19 +1633,19 @@
     ],
     "phrases": [
       {
-        "cyrillic": "гьедин гьабуни, иш аялда букӏинаан",
-        "latin": "hedin habuni, iş ayalda buķinaan",
-        "ru": "если сделаешь так, дело пошло бы на лад"
+        "cyrillic": "уйилан ккезе",
+        "latin": "uyilan kkeze",
+        "ru": "принимать, принять за чистую монету"
       },
       {
-        "cyrillic": "а абуни, беги абизе ккола",
-        "latin": "a abuni, begi abize kkola",
-        "ru": "раз сказал \"а\", скажи [вслед] \"бе\""
+        "cyrillic": "Дуейищ дун къваригӏун вугев? — У",
+        "latin": "Dueyişç dun qwariġun vugev? — U",
+        "ru": "Тебе я нужен? — Да"
       },
       {
-        "cyrillic": "аб дир къалам буго",
-        "latin": "ab dir qalam bugo",
-        "ru": "это мой карандаш"
+        "cyrillic": "уба гьабизе",
+        "latin": "uba habize",
+        "ru": "(по)целовать, чмокать, чмокнуть"
       }
     ]
   },
@@ -1687,17 +1687,17 @@
     "phrases": [
       {
         "cyrillic": "Дов васасул эмен вуго.",
-        "latin": "Dov vasasul emen vuqo.",
+        "latin": "Dov vasasul emen vugo.",
         "ru": "Он отец мальчика."
       },
       {
         "cyrillic": "ВачӀа нижер росулъе!",
-        "latin": "Vača nijer rosulļe!",
+        "latin": "Vača nijer rosuļe!",
         "ru": "Приходи в наше село!"
       },
       {
         "cyrillic": "Вагон шагьаралде щвана.",
-        "latin": "Vagon şaharalde şçvana.",
+        "latin": "Vagon şaharalde şçwana.",
         "ru": "Вагон прибыл в город."
       }
     ]
@@ -1745,7 +1745,7 @@
       },
       {
         "cyrillic": "Кьалбал кавуда цебе буго.",
-        "latin": "Kļalbal kawuda cebe buqo.",
+        "latin": "Kļalbal kawuda cebe bugo.",
         "ru": "Ворота открыты перед нами."
       },
       {
@@ -1787,19 +1787,19 @@
     ],
     "phrases": [
       {
-        "cyrillic": "абадиялъ анив хутӏулев чи вукӏунаро",
-        "latin": "abadiyaļ aniv xuťulev çi vuķunaro",
-        "ru": "нет человека, который остаётся навечно здесь"
+        "cyrillic": "вацлъиялъул хабал",
+        "latin": "vacļiyaļul xabal",
+        "ru": "братская могила"
       },
       {
-        "cyrillic": "абадул-абадиялъ алжаналъув хутӏана",
-        "latin": "abadul-abadiyaļ aljanaļuv xuťana",
-        "ru": "навсегда остался в раю"
+        "cyrillic": "росдал хабал",
+        "latin": "rosdal xabal",
+        "ru": "сельское кладбище"
       },
       {
-        "cyrillic": "абазин халкъ",
-        "latin": "abazin xalq",
-        "ru": "абазинский народ"
+        "cyrillic": "шагьаралъул хабал",
+        "latin": "şaharaļul xabal",
+        "ru": "городское кладбище"
       }
     ]
   },
@@ -1835,19 +1835,19 @@
     ],
     "phrases": [
       {
-        "cyrillic": "тӏухьдуца абухъеяв авараг гьев вукӏин лъана",
-        "latin": "ťuxhduca abukheyav awarag hev vuķin ļana",
-        "ru": "узнали, что он тот пророк, о ком говорилось в писаниях"
+        "cyrillic": "долъул хьабалухъагӏучӏ бекун буго",
+        "latin": "doļul xhabalukhaġuč bekun bugo",
+        "ru": "у неё сломано ребро"
       },
       {
-        "cyrillic": "гьелъул авал-ахирго бихьулеб гьечӏо",
-        "latin": "heļul awal-axirgo bixhuleb hečo",
-        "ru": "этому не видно конца-краю"
+        "cyrillic": "гьитӏинаб хьаг",
+        "latin": "hiťinab xhag",
+        "ru": "кастрюлька, небольшой котёл"
       },
       {
-        "cyrillic": "гьаб тӏехьалъул автор машгьурай хъвадарухъан йиго",
-        "latin": "hab ťexhaļul avtor maşhuray khwadarukhan yigo",
-        "ru": "автор этой книги знаменитая писательница"
+        "cyrillic": "кӏудияб хьаг",
+        "latin": "ķudiyab xhag",
+        "ru": "котёл, крупная кастрюля"
       }
     ]
   },
@@ -1883,19 +1883,19 @@
     ],
     "phrases": [
       {
-        "cyrillic": "абги цадахъ босе",
-        "latin": "abgi cadakh bose",
-        "ru": "и это тоже возьми(те) с собой"
+        "cyrillic": "рахьдал хъаба",
+        "latin": "raxhdal khaba",
+        "ru": "кувшин молока"
       },
       {
-        "cyrillic": "абго щиб жо духъ бугеб?",
-        "latin": "abgo şçib jo dukh bugeb?",
-        "ru": "что это у тебя [в руках]?"
+        "cyrillic": "щарил хъаба",
+        "latin": "şçaril khaba",
+        "ru": "кувшин йогурта"
       },
       {
-        "cyrillic": "абго щиб хабар дур рахъалъ?",
-        "latin": "abgo şçib xabar dur rakhaļ?",
-        "ru": "что за слухи про тебя идут?"
+        "cyrillic": "хъабиниб бетарахь буго",
+        "latin": "khabinib betaraxh bugo",
+        "ru": "в горшке кислое молоко"
       }
     ]
   },
@@ -1931,19 +1931,19 @@
     ],
     "phrases": [
       {
-        "cyrillic": "абгощинаб боцӏи-рикъзи досие щай?",
-        "latin": "abgoşçinab boći-riqzi dosie şçay?",
-        "ru": "зачем же ему столько добра?"
+        "cyrillic": "йичарухъан хӏалтӏуде кватӏана",
+        "latin": "yiçarukhan ħalťude kwaťana",
+        "ru": "продавщица опоздала на работу"
       },
       {
-        "cyrillic": "абгощинаб къайи нилъеца кин баччилеб?",
-        "latin": "abgoşçinab qayi niļeca kin baççileb?",
-        "ru": "как мы потащим столько вещей?"
+        "cyrillic": "йичарухъанлъун хӏалтӏизе",
+        "latin": "yiçarukhanļun ħalťize",
+        "ru": "работать продавщицей"
       },
       {
-        "cyrillic": "абгощинаб щай кьолеб?",
-        "latin": "abgoşçinab şçay kļoleb?",
-        "ru": "почему столько [много] даёшь?"
+        "cyrillic": "тукадул йичарухъанлъун йосизе",
+        "latin": "tukadul yiçarukhanļun yosize",
+        "ru": "принять продавщицей в магазин"
       }
     ]
   },
@@ -1979,19 +1979,19 @@
     ],
     "phrases": [
       {
-        "cyrillic": "а абуни, беги абизе ккола",
-        "latin": "a abuni, begi abize kkola",
-        "ru": "раз сказал \"а\", скажи [вслед] \"бе\""
+        "cyrillic": "забаниятал гӏадин тӏаделъана",
+        "latin": "zabaniyatal ġadin ťadeļana",
+        "ru": "накинулись как адское воинство"
       },
       {
-        "cyrillic": "абазин мацӏ",
-        "latin": "abazin mać",
-        "ru": "абазинский язык"
+        "cyrillic": "забаниятаз рехъерхъун рачун капурзаби жужахӏалде рехила",
+        "latin": "zabaniyataz rekherkhun raçun kapurzabi jujaħalde rexila",
+        "ru": "адское воинство поволочет и закинет неверных в ад"
       },
       {
-        "cyrillic": "абазин халкъ",
-        "latin": "abazin xalq",
-        "ru": "абазинский народ"
+        "cyrillic": "нартихъабазул забастовка",
+        "latin": "nartikhabazul zabastovka",
+        "ru": "забастовка нефтяников"
       }
     ]
   },
@@ -2002,11 +2002,11 @@
     "lower": "'",
     "cyrillic": "Ъ ъ",
     "ipa": "[ʔ]",
-    "desc": "Апостроф передаёт гортанную смычку (глоттальный взрыв / хамзу), разделяя слоги и гласные звуки (ma'ana, ba'al).",
+    "desc": "Апостроф передаёт гортанную смычку (глоттальный взрыв / хамзу), разделяя слоги и гласные звуки (ma'na, ba'al).",
     "words": [
       {
         "cyrillic": "маъна",
-        "latin": "ma'ana",
+        "latin": "ma'na",
         "ru": "смысл, значение"
       },
       {
@@ -2028,12 +2028,12 @@
     "phrases": [
       {
         "cyrillic": "Гьаб рагӀиялъул маъна щиб?",
-        "latin": "Hab raġiyalļul ma'ana şib?",
+        "latin": "Hab raġiyaļul ma'na şçib?",
         "ru": "Каков смысл этого слова?"
       },
       {
         "cyrillic": "Куъал тӀад гьабуна квана-гьекъей.",
-        "latin": "Ku'al ťad habuna kwana-heķey.",
+        "latin": "Ku'al ťad habuna kwana-heqey.",
         "ru": "На сковороде приготовили еду."
       }
     ]

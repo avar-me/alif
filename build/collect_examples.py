@@ -450,64 +450,66 @@ LATIN_LETTERS = [
         "lower": "'",
         "cyrillic": "Ъ ъ",
         "ipa": "[ʔ]",
-        "desc": "Апостроф передаёт гортанную смычку (глоттальный взрыв / хамзу), разделяя слоги и гласные звуки (ma'ana, ba'al).",
+        "desc": "Апостроф передаёт гортанную смычку (глоттальный взрыв / хамзу), разделяя слоги и гласные звуки (ma'na, ba'al).",
         "cyr_keys": ["ъ"],
     },
 ]
 
+# Canonical words: always transliterated dynamically via translit_text()
 CANONICAL_WORDS = {
     "v": [
-        ("вачӀине", "vačine", "прийти (о мужчине)"),
-        ("васасул", "vasasul", "мальчика, сына (родит. падеж)"),
-        ("вагон", "vagon", "вагон"),
-        ("дов", "dov", "тот, он (муж. род)"),
-        ("вабабай", "vababay", "ой-ой-ой! (восклицание)"),
+        ("вачӀине", "прийти (о мужчине)"),
+        ("васасул", "мальчика, сына (родит. падеж)"),
+        ("вагон", "вагон"),
+        ("дов", "тот, он (муж. род)"),
+        ("вабабай", "ой-ой-ой! (восклицание)"),
     ],
     "w": [
-        ("кваназе", "kwanaze", "кушать, есть"),
-        ("квине", "kwine", "съесть"),
-        ("свине", "swine", "погаснуть, потухнуть"),
-        ("каву", "kawu", "ворота"),
-        ("кьаву", "kļawu", "удар, бой"),
+        ("кваназе", "кушать, есть"),
+        ("квине", "съесть"),
+        ("свине", "погаснуть, потухнуть"),
+        ("каву", "ворота"),
+        ("кьаву", "удар, бой"),
     ],
     "l-stroke": [
-        ("лӀондокь", "łondoķ", "жаба (диал.)"),
-        ("лӀутӀизе", "łutʼize", "сдирать, обдирать (диал.)"),
-        ("лӀутӀунзе", "łutʼunze", "сползать, соскальзывать (диал.)"),
+        ("лӀондокь", "жаба (диал.)"),
+        ("лӀутӀизе", "сдирать, обдирать (диал.)"),
+        ("лӀутӀунзе", "сползать, соскальзывать (диал.)"),
     ],
     "apostrophe": [
-        ("маъна", "ma'ana", "смысл, значение"),
-        ("баъал", "ba'al", "коренной зуб"),
-        ("куъал", "ku'al", "сковорода"),
-        ("чуъал", "çu'al", "черви, глисты"),
+        ("маъна", "смысл, значение"),
+        ("баъал", "коренной зуб"),
+        ("куъал", "сковорода"),
+        ("чуъал", "черви, глисты"),
     ],
     "o-umlaut": [
-        ("мёл", "möl", "куча зерна на гумне"),
-        ("гьётӀеро", "hötʼero", "кулик (птица)"),
-        ("тӀёл", "tʼöl", "пласт (земли, снега)"),
+        ("мёл", "куча зерна на гумне"),
+        ("гьётӀеро", "кулик (птица)"),
+        ("тӀёл", "пласт (земли, снега)"),
     ],
 }
 
+# Canonical phrases: always transliterated dynamically via translit_text()
 CANONICAL_PHRASES = {
     "v": [
-        ("Дов васасул эмен вуго.", "Dov vasasul emen vuqo.", "Он отец мальчика."),
-        ("ВачӀа нижер росулъе!", "Vača nijer rosulļe!", "Приходи в наше село!"),
-        ("Вагон шагьаралде щвана.", "Vagon şaharalde şçvana.", "Вагон прибыл в город."),
+        ("Дов васасул эмен вуго.", "Он отец мальчика."),
+        ("ВачӀа нижер росулъе!", "Приходи в наше село!"),
+        ("Вагон шагьаралде щвана.", "Вагон прибыл в город."),
     ],
     "w": [
-        ("Кваназе гӀодов чӀа.", "Kwanaze ġodov ča.", "Садись кушать."),
-        ("Кьалбал кавуда цебе буго.", "Kļalbal kawuda cebe buqo.", "Ворота открыты перед нами."),
-        ("ЦӀа свине гьабуна.", "Ća swine habuna.", "Огонь потушили."),
+        ("Кваназе гӀодов чӀа.", "Садись кушать."),
+        ("Кьалбал кавуда цебе буго.", "Ворота открыты перед нами."),
+        ("ЦӀа свине гьабуна.", "Огонь потушили."),
     ],
     "l-stroke": [
-        ("ЛӀондокь лъаралда бихьана.", "Łondoķ ļaralda bixhana.", "Жабу увидели у ручья."),
+        ("ЛӀондокь лъаралда бихьана.", "Жабу увидели у ручья."),
     ],
     "apostrophe": [
-        ("Гьаб рагӀиялъул маъна щиб?", "Hab raġiyalļul ma'ana şib?", "Каков смысл этого слова?"),
-        ("Куъал тӀад гьабуна квана-гьекъей.", "Ku'al ťad habuna kwana-heķey.", "На сковороде приготовили еду."),
+        ("Гьаб рагӀиялъул маъна щиб?", "Каков смысл этого слова?"),
+        ("Куъал тӀад гьабуна квана-гьекъей.", "На сковороде приготовили еду."),
     ],
     "o-umlaut": [
-        ("Гьороца мёл тӀобитӀана.", "Horoća möl ťobiťana.", "Ветер разметал кучу зерна."),
+        ("Гьороца мёл тӀобитӀана.", "Ветер разметал кучу зерна."),
     ],
 }
 
@@ -525,10 +527,11 @@ def clean_gloss(text: str) -> str:
 def collect_from_jsonl():
     if not SOURCE.exists():
         print(f"Warning: {SOURCE} does not exist, skipping JSONL scan.")
-        return {}, {}
+        return {}, {}, {}
 
     candidates_by_key = {}
-    phrases_by_key = {}
+    phrases_by_first_key = {}
+    phrases_by_any_key = {}
 
     print(f"Reading {SOURCE}...")
     with SOURCE.open(encoding="utf-8") as f:
@@ -541,13 +544,13 @@ def collect_from_jsonl():
             gloss = clean_gloss(senses[0].get("text", "")) if senses else ""
 
             # Check headword
-            if word and 2 <= len(word) <= 14 and gloss and "-" not in word:
-                tokens = tokenize(word)
-                if tokens:
-                    first_key = tokens[0][1]
-                    if first_key not in candidates_by_key:
-                        candidates_by_key[first_key] = []
-                    candidates_by_key[first_key].append((word, gloss))
+            tokens = tokenize(word) if word else []
+            first_key = tokens[0][1] if tokens else None
+
+            if word and 2 <= len(word) <= 14 and gloss and "-" not in word and first_key:
+                if first_key not in candidates_by_key:
+                    candidates_by_key[first_key] = []
+                candidates_by_key[first_key].append((word, gloss))
 
             # Check phrases
             for sense in senses:
@@ -556,19 +559,26 @@ def collect_from_jsonl():
                     ru = clean_gloss((ex.get("ru") or "").strip())
                     if not av or not ru or " " not in av:
                         continue
-                    if len(av) < 10 or len(av) > 55:
+                    if len(av) < 10 or len(av) > 60:
                         continue
-                    for _, key in tokenize(av):
-                        if key not in phrases_by_key:
-                            phrases_by_key[key] = []
-                        if len(phrases_by_key[key]) < 40:
-                            phrases_by_key[key].append((av, ru))
 
-    return candidates_by_key, phrases_by_key
+                    if first_key:
+                        if first_key not in phrases_by_first_key:
+                            phrases_by_first_key[first_key] = []
+                        if len(phrases_by_first_key[first_key]) < 20:
+                            phrases_by_first_key[first_key].append((av, ru))
+
+                    for _, key in tokenize(av):
+                        if key not in phrases_by_any_key:
+                            phrases_by_any_key[key] = []
+                        if len(phrases_by_any_key[key]) < 20:
+                            phrases_by_any_key[key].append((av, ru))
+
+    return candidates_by_key, phrases_by_first_key, phrases_by_any_key
 
 
 def main():
-    candidates_by_key, phrases_by_key = collect_from_jsonl()
+    candidates_by_key, phrases_by_first_key, phrases_by_any_key = collect_from_jsonl()
 
     alphabet_data = []
 
@@ -580,8 +590,8 @@ def main():
         # 1. Collect Words
         words = []
         if letter_id in CANONICAL_WORDS:
-            for cyr, lat, ru in CANONICAL_WORDS[letter_id]:
-                words.append({"cyrillic": cyr, "latin": lat, "ru": ru})
+            for cyr, ru in CANONICAL_WORDS[letter_id]:
+                words.append({"cyrillic": cyr, "latin": translit_text(cyr), "ru": ru})
         else:
             seen_words = set()
             for key in cyr_keys:
@@ -604,12 +614,13 @@ def main():
         # 2. Collect Phrases
         phrases = []
         if letter_id in CANONICAL_PHRASES:
-            for cyr, lat, ru in CANONICAL_PHRASES[letter_id]:
-                phrases.append({"cyrillic": cyr, "latin": lat, "ru": ru})
+            for cyr, ru in CANONICAL_PHRASES[letter_id]:
+                phrases.append({"cyrillic": cyr, "latin": translit_text(cyr), "ru": ru})
         else:
             seen_phrases = set()
+            # First preference: phrases from headwords starting with this letter
             for key in cyr_keys:
-                pool = phrases_by_key.get(key, [])
+                pool = phrases_by_first_key.get(key, [])
                 for cyr, ru in pool:
                     if cyr in seen_phrases:
                         continue
@@ -624,6 +635,25 @@ def main():
                         break
                 if len(phrases) >= 3:
                     break
+
+            # Fallback: phrases containing this letter anywhere
+            if len(phrases) < 3:
+                for key in cyr_keys:
+                    pool = phrases_by_any_key.get(key, [])
+                    for cyr, ru in pool:
+                        if cyr in seen_phrases:
+                            continue
+                        lat = translit_text(cyr)
+                        if vw_filter == "v" and "v" not in lat.lower():
+                            continue
+                        if vw_filter == "w" and "w" not in lat.lower():
+                            continue
+                        seen_phrases.add(cyr)
+                        phrases.append({"cyrillic": cyr, "latin": lat, "ru": ru})
+                        if len(phrases) >= 3:
+                            break
+                    if len(phrases) >= 3:
+                        break
 
         entry = {
             "id": item["id"],

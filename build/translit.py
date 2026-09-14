@@ -106,7 +106,9 @@ def _translit_word(word: str, tokens=None) -> str:
             latin = GRAPHEME_MAP[key]
         else:
             latin = FALLBACK_MAP.get(key, key)
-        if surface[0].isupper() and latin:
+        if word.isupper() and len(word) > 1:
+            latin = latin.upper()
+        elif surface[0].isupper() and latin:
             latin = latin[0].upper() + latin[1:]
         out.append(latin)
     return "".join(out)
