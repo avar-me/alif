@@ -16,6 +16,27 @@ AVAR_ALPHABET_ORDER = [
     "ш", "щ", "ъ", "э", "ю", "я", "ё",
 ]
 
+# Display columns: (header label, csv field)
+COLUMNS = [
+    ("Cyrillic", "cyrillic"),
+    ("avar.me", "avarme"),
+    ("Scientific", "scientific"),
+    ("Typing", "typing"),
+    ("1932", "historical"),
+    ("Umarilov", "umarilov"),
+    ("Turk", "turk"),
+    ("Said", "said"),
+    ("Google", "google"),
+    ("Forker", "forker"),
+    ("Claprot", "claprot"),
+    ("Graham", "graham"),
+    ("ЦӀадаса", "tsadasa"),
+    ("Dict", "frequency"),
+    ("Wiki", "freq_wiki"),
+]
+
+FREQ_FIELDS = {"frequency", "freq_wiki"}
+
 
 def cell(value: str) -> str:
     return (value or "").replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
@@ -24,24 +45,28 @@ def cell(value: str) -> str:
 def main() -> None:
     rows = []
     with CSV_PATH.open(encoding="utf-8") as f:
-        reader = csv.reader(f, delimiter=";")
-        next(reader)
+        reader = csv.DictReader(f, delimiter=";")
         for row in reader:
-            if len(row) < 7 or not row[1]:
+            cyrillic = (row.get("phoneme_cyrillic") or "").strip()
+            if not cyrillic:
                 continue
             rows.append(
                 {
-                    "cyrillic": row[1],
-                    "avarme": row[2],
-                    "scientific": row[4],
-                    "typing": row[6],
-                    "historical": row[7] if len(row) > 7 else "",
-                    "umarilov": row[9] if len(row) > 9 else "",
-                    "turk": row[10] if len(row) > 10 else "",
-                    "said": row[11] if len(row) > 11 else "",
-                    "google": row[12] if len(row) > 12 else "",
-                    "frequency": row[13] if len(row) > 13 else "",
-                    "freq_wiki": row[14] if len(row) > 14 else "",
+                    "cyrillic": cyrillic,
+                    "avarme": row.get("variant_avarme", ""),
+                    "scientific": row.get("variant_scientific", ""),
+                    "typing": row.get("variant_typing", ""),
+                    "historical": row.get("variant_historical_1932", ""),
+                    "umarilov": row.get("variant_umarilov", ""),
+                    "turk": row.get("variant_turk", ""),
+                    "said": row.get("variant_said", ""),
+                    "google": row.get("variant_google", ""),
+                    "forker": row.get("variant_forker", ""),
+                    "claprot": row.get("variant_claprot", ""),
+                    "graham": row.get("variant_graham", ""),
+                    "tsadasa": row.get("variant_tsadasa", ""),
+                    "frequency": row.get("frequency", ""),
+                    "freq_wiki": row.get("freq_wiki", ""),
                 }
             )
 
@@ -49,21 +74,14 @@ def main() -> None:
     rows.sort(key=lambda r: order_map.get(r["cyrillic"], 999))
 
     table_html = "\n".join(
-        (
-            "                        <tr>"
-            f"<td>{cell(r['cyrillic'])}</td>"
-            f"<td>{cell(r['avarme'])}</td>"
-            f"<td>{cell(r['scientific'])}</td>"
-            f"<td>{cell(r['typing'])}</td>"
-            f"<td>{cell(r['historical'])}</td>"
-            f"<td>{cell(r['umarilov'])}</td>"
-            f"<td>{cell(r['turk'])}</td>"
-            f"<td>{cell(r['said'])}</td>"
-            f"<td>{cell(r['google'])}</td>"
-            f"<td class=\"freq\">{cell(r['frequency'])}</td>"
-            f"<td class=\"freq\">{cell(r['freq_wiki'])}</td>"
-            "</tr>"
+        "                        <tr>"
+        + "".join(
+            f'<td class="freq">{cell(r[field])}</td>'
+            if field in FREQ_FIELDS
+            else f"<td>{cell(r[field])}</td>"
+            for _, field in COLUMNS
         )
+        + "</tr>"
         for r in rows
     )
 
