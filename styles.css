@@ -238,6 +238,11 @@ footer a:hover {
 
     .alphabet-table th,
     .alphabet-table td {
-        padding: 0.75rem 1rem;
+        padding: 0.6rem 0.4rem;
+    }
+
+    .alphabet-table th {
+        height: 10rem;
+        padding: 0.85rem 0.3rem;
     }
 }
