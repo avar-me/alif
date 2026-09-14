@@ -1276,12 +1276,12 @@
     "words": [
       {
         "cyrillic": "павиан",
-        "latin": "pawian",
+        "latin": "pavian",
         "ru": "павиан"
       },
       {
         "cyrillic": "павильон",
-        "latin": "pawilon",
+        "latin": "pavilon",
         "ru": "павильон"
       },
       {
@@ -1298,17 +1298,17 @@
     "phrases": [
       {
         "cyrillic": "тӏугьдузул павильон",
-        "latin": "ťuhduzul pawilon",
+        "latin": "ťuhduzul pavilon",
         "ru": "цветочный павильон"
       },
       {
         "cyrillic": "ярмаркаялъул павильон",
-        "latin": "yarmarkayaļul pawilon",
+        "latin": "yarmarkayaļul pavilon",
         "ru": "ярмарочный павильон"
       },
       {
         "cyrillic": "дармил павильонал",
-        "latin": "darmil pawilonal",
+        "latin": "darmil pavilonal",
         "ru": "торговые павильоны"
       }
     ]

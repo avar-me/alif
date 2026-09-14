@@ -58,6 +58,10 @@ FALLBACK_MAP = {"ы": "y", "ь": ""}
 
 VOWELS = set("аеиоуэюяёaeiouy")
 
+# Russian loanwords keep /v/ even before a vowel. Prefix matching also covers
+# their Avar inflected forms (for example, павильонал).
+RUSSIAN_LOANWORD_V_PREFIXES = ("павиан", "павильон")
+
 # Ordered longest-first for tokenizing.
 _KEYS = sorted(GRAPHEME_MAP.keys(), key=len, reverse=True)
 
@@ -90,6 +94,8 @@ def tokenize(word: str):
 def _translit_word(word: str, tokens=None) -> str:
     if tokens is None:
         tokens = tokenize(word)
+    normalized_word = "".join(_normalize(c) for c in word).lower()
+    uses_loanword_v = normalized_word.startswith(RUSSIAN_LOANWORD_V_PREFIXES)
     out = []
     for idx, (surface, key) in enumerate(tokens):
         if key == "в":
@@ -98,7 +104,7 @@ def _translit_word(word: str, tokens=None) -> str:
                 nxt_norm = tokens[idx + 1][1]
                 first_char = nxt_norm[0] if nxt_norm else ""
                 next_is_vowel = first_char in VOWELS
-            if idx == 0 or not next_is_vowel:
+            if uses_loanword_v or idx == 0 or not next_is_vowel:
                 latin = "v"
             else:
                 latin = "w"
