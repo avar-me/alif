@@ -85,7 +85,7 @@
       },
       {
         "cyrillic": "Мухӏамад аварагасул хӏадисазул бицунеб баб буго гьаб",
-        "latin": "Muħamad awaragasul ħadisazul bicuneb bab bugo hab",
+        "latin": "Muħamad avaragasul ħadisazul bicuneb bab bugo hab",
         "ru": "эта глава о хадисах пророка Мухаммеда"
       },
       {
@@ -687,7 +687,7 @@
       },
       {
         "cyrillic": "ивус",
-        "latin": "iwus",
+        "latin": "ivus",
         "ru": "клоп"
       },
       {
@@ -704,7 +704,7 @@
     "phrases": [
       {
         "cyrillic": "ивусил берал",
-        "latin": "iwusil beral",
+        "latin": "ivusil beral",
         "ru": "глазки пуговкой"
       },
       {
@@ -735,17 +735,17 @@
       },
       {
         "cyrillic": "жаваб",
-        "latin": "jawab",
+        "latin": "javab",
         "ru": "ответ"
       },
       {
         "cyrillic": "жавабалъулаб",
-        "latin": "jawabaļulab",
+        "latin": "javabaļulab",
         "ru": "ответный"
       },
       {
         "cyrillic": "жавабияб",
-        "latin": "jawabiyab",
+        "latin": "javabiyab",
         "ru": "ответственный"
       }
     ],

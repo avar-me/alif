@@ -62,6 +62,13 @@ VOWELS = set("аеиоуэюяёaeiouy")
 # their Avar inflected forms (for example, павильонал).
 RUSSIAN_LOANWORD_V_PREFIXES = ("павиан", "павильон")
 
+# Words where intervocalic в is /v/, not the /w/ the general position rule would
+# give (rule-vw.txt covers "каву"/"кьаву"-type -аву endings, but not these).
+# Manual list for now; prefix matching also covers their inflected forms
+# (жавабалъ, аварагасул, ивусил, etc).
+# TODO: fold into a proper rule once the general в→v/w heuristic is revisited.
+MANUAL_V_OVERRIDE_PREFIXES = ("жаваб", "авараг", "ивус")
+
 # Ordered longest-first for tokenizing.
 _KEYS = sorted(GRAPHEME_MAP.keys(), key=len, reverse=True)
 
@@ -95,7 +102,9 @@ def _translit_word(word: str, tokens=None) -> str:
     if tokens is None:
         tokens = tokenize(word)
     normalized_word = "".join(_normalize(c) for c in word).lower()
-    uses_loanword_v = normalized_word.startswith(RUSSIAN_LOANWORD_V_PREFIXES)
+    uses_loanword_v = normalized_word.startswith(RUSSIAN_LOANWORD_V_PREFIXES) or normalized_word.startswith(
+        MANUAL_V_OVERRIDE_PREFIXES
+    )
     out = []
     for idx, (surface, key) in enumerate(tokens):
         if key == "в":
